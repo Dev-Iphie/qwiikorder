@@ -28,13 +28,13 @@ export function Footer () {
                 <p className="text-2xl font-bold text-blue-500">Socials  </p>
                 <div className="flex gap-4 mt-2">
                   <Link href="#"><FaFacebookF className="text-xl text-blue-200"/></Link>
-                  <Link href="#"></Link><FaInstagram className="text-xl text-blue-200"/>
-                  <Link href="#"></Link><FaLinkedinIn className="text-xl text-blue-200" />
+                  <Link href="#"><FaInstagram className="text-xl text-blue-200"/></Link>
+                  <Link href="#"><FaLinkedinIn className="text-xl text-blue-200" /></Link>
                 </div>
               
                 
             </div>
             
         </footer>
-    )
+   )
 }

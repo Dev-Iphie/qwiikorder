@@ -13,7 +13,7 @@ export default function Profile () {
                     alt="profile-image"
                     className="w-[80px] h-[80px] rounded-full "
                     />
-                </div>app/dashboard/profile/page.js
+                </div>
                 <p className="text-center py-3 border-b border-gray-600">User Name</p>
                 <p className="text-center py-3 border-b border-gray-600">User Email</p>
                 <p className="text-center py-3 border-b border-gray-600">User ID</p>
